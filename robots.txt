@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hengjiang689.github.io/resources-4fwe0q/sitemap.xml
